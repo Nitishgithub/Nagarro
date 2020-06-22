@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Google Search Tests execution onundefined" timestamp="2020-06-22T16:31:03" hostname="localhost" time="13.805" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Google Search Tests execution onundefined" name="Open Google Search page" time="4.02" />
+  <testcase classname="Google Search Tests execution onundefined" name="search Nitish Kesarwani" time="2.75" />
+  <testcase classname="Google Search Tests execution onundefined" name="search Nagarro" time="2.795" />
+  <testcase classname="Google Search Tests execution onundefined" name="Open Nagarro website Page" time="4.238" />
+ </testsuite>
+</testsuites>

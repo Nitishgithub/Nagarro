@@ -1,0 +1,12 @@
+{
+  "search": {
+    "baseUrl": "https://www.google.co.in"
+  },
+  "keywords": {
+    "keyword1": "Nitish kesarwani",
+    "keyword2": "Nagarro"
+  },
+  "results": {
+    "result1": "www.nagarro.com"
+  }
+}
